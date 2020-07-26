@@ -1,5 +1,5 @@
 # Algorithm_Study
-알고리즘.......
+알고리즘 공부하자...
 
 ## 목표
 - 모든 알고리즘 문제들을 1문제당 30분안에 풀 수 있는 역량 기르기
@@ -9,9 +9,19 @@
 
 > 1. 기한: 7/27 ~ 8/10
 > 2. 주말을 제외하고 1일1문제
-> 3. 백준, swexpertacademy 등의 코테문제에서 단계별로 풀기
+> 3. [백준](https://www.acmicpc.net), [swexpertacademy](https://swexpertacademy.com/main/code/problem/problemList.do?) 등의 코테문제에서 단계별로 풀기
 
-## 정리
+
+
+## 문제풀이
+
+**참고자료**
+
+- [2018 kakao blind requirement](https://programmers.co.kr/learn/challenges)
+
+
+
+## 정리 
 
 **반올림** 
 
@@ -19,3 +29,4 @@
 - 그 외에 ceil (올림), floor(내림) 메소드가 있다.
 - 만약, 소수 첫째자리에서 반올림하고 싶다면, 반올림하고 싶은 수 + 0.5 를 int 형으로 바꾸어주는 방법도 가능하다.
 - [swexpertacademy 2071 평균값구하기 문제](,/SWExpertAcademy/2071-평균값 구하기)
+

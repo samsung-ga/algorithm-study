@@ -13,11 +13,16 @@
 
 
 
-## 문제풀이
+## 주차별 주제
 
-**참고자료**
+**문제 풀이**
 
-- [2018 kakao blind requirement](https://programmers.co.kr/learn/challenges)
+| 1st week<br />: 브루트 포스, 수학 | **브루트 포스**<br />[일곱 난쟁이 - BOJ](https://www.acmicpc.net/problem/2309) <br />[날짜 계산 - BOJ](https://www.acmicpc.net/problem/1476)<br />[테트로미노 - BOJ](https://www.acmicpc.net/problem/14500)<br />[1,2,3 더하기 - BOJ](https://www.acmicpc.net/problem/9095)<br />[다음 순열 - BOJ](https://www.acmicpc.net/problem/10972)<br />[이전 순열 - BOJ](https://www.acmicpc.net/problem/10973)<br />[모든 순열 - BOJ](https://www.acmicpc.net/problem/10974)<br /> | **수학**<br />[나머지](https://www.acmicpc.net/problem/10430)<br />[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)<br />[최소공배수](https://www.acmicpc.net/problem/1934)<br />[GCD 합](https://www.acmicpc.net/problem/9613)<br />[소수 찾기](https://www.acmicpc.net/problem/1978)<br />[골드바흐의 추측](https://www.acmicpc.net/problem/6588) |
+| --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **2nd week**                      |                                                              |                                                              |
+|                                   |                                                              |                                                              |
+|                                   |                                                              |                                                              |
+|                                   |                                                              |                                                              |
 
 
 
@@ -35,4 +40,12 @@
 - char 배열을 통해 접근이 가능하다.
 - string 의 to_string()을 이용하여 int를 string으로 바꿀 수 있다.
 - [swexpertacademy 2056 연일월 달력 문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QLkdKAz4DFAUq&categoryId=AV5QLkdKAz4DFAUq&categoryType=CODE)
+
+
+
+
+
+## 참고자료
+
+- [2018 kakao blind requirement](https://programmers.co.kr/learn/challenges)
 

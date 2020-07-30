@@ -38,13 +38,13 @@
 
 - **수학**
 
-  [나머지](https://www.acmicpc.net/problem/10430)
+  <s>[나머지](https://www.acmicpc.net/problem/10430)</s>
 
-  [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+  <s>[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)</s>
 
-  [최소공배수](https://www.acmicpc.net/problem/1934)
+  <s>[최소공배수](https://www.acmicpc.net/problem/1934)</s>
 
-  [GCD 합](https://www.acmicpc.net/problem/9613)
+  <s>[GCD 합](https://www.acmicpc.net/problem/9613)</s>
 
   [소수 찾기](https://www.acmicpc.net/problem/1978)
 
@@ -76,6 +76,23 @@
   2. 또 뒤에서부터 탐색하여 i로 지정한 수보다 큰 수를 찾고 j로 지정한다.
   3. i와 j를 swap한다.
   4. ii를 포함한 뒤 모든 수를 reverse 한다.
+
+**최대공약수 최소공배수**
+
+- 최대공약수는 두 수중 작은 수까지 for문을 돌려, 두 수가 모두 나누어지는 값이 최대공약수이다. 시간 복잡도: O(N)
+- 유클리드 호제법 이용 : a = b*q + p 의 상황에서 a와 b의 최대공약수는 b와 p의 최대공약수와 같다. 시간 복잡도: O(logN)
+- [BOJ 2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+- [최소공배수](https://www.acmicpc.net/problem/1934)
+
+
+
+## 주의할 점❗️
+
+- 항상 수의 범위 체크: 더할 때 int형 범위를 넘기면 long long 써주기
+
+  ex) [GCD 합](https://www.acmicpc.net/problem/9613)
+
+
 
 ## 참고자료
 

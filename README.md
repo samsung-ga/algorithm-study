@@ -70,7 +70,7 @@
 **순열**
 
 - algorithm 헤더파일의 next_permutation()을 통해 do while 문을 이용하여 사전순 순서대로 출력이 가능하다. 
-- 직접 구현하는 알고리즘은 두가지 블로그를 참고하였다. 👉  / [순서 상관있이 출력](https://jeonggyun.tistory.com/110)
+- 직접 구현하는 알고리즘은 두가지 블로그를 참고하였다. 👉  [순서 상관 없이 출력]([https://minusi.tistory.com/entry/%EC%88%9C%EC%97%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Permutation-Algorithm](https://minusi.tistory.com/entry/순열-알고리즘-Permutation-Algorithm)) / [순서 상관있이 출력](https://jeonggyun.tistory.com/110)
 - 알고리즘: 
   1. 뒤에서부터 탐색하여 오름차순으로 구성되어있는 쌍을 찾고 i,ii 로 지정한다.  
   2. 또 뒤에서부터 탐색하여 i로 지정한 수보다 큰 수를 찾고 j로 지정한다.

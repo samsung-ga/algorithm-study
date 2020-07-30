@@ -30,7 +30,7 @@
 
   [1,2,3 더하기 - BOJ](https://www.acmicpc.net/problem/9095)
 
-  [다음 순열 - BOJ](https://www.acmicpc.net/problem/10972)
+  [다음 순열 - BOJ](https://www.acmicpc.net/problem/10972) ⭕️
 
   [이전 순열 - BOJ](https://www.acmicpc.net/problem/10973)
 
@@ -66,6 +66,11 @@
 - char 배열을 통해 접근이 가능하다.
 - string 의 to_string()을 이용하여 int를 string으로 바꿀 수 있다.
 - [swexpertacademy 2056 연일월 달력 문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QLkdKAz4DFAUq&categoryId=AV5QLkdKAz4DFAUq&categoryType=CODE)
+
+**순열**
+
+- algorithm 헤더파일의 next_permutation()을 통해 do while 문을 이용하여 사전순 순서대로 출력이 가능하다. 
+- 직접 구현하는 알고리즘은 두가지 블로그를 참고하였다. 👉 [순서 상관없이 출력](https://minusi.tistory.com/entry/%EC%88%9C%EC%97%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Permutation-Algorithm) / [순서 상관있이 출력](https://jeonggyun.tistory.com/110) 
 
 
 

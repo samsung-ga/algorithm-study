@@ -26,7 +26,7 @@
 
   [날짜 계산 - BOJ](https://www.acmicpc.net/problem/1476) ⭕️
 
-  [테트로미노 - BOJ](https://www.acmicpc.net/problem/14500)
+  [테트로미노 - BOJ](https://www.acmicpc.net/problem/14500) ⭕️
 
   [1,2,3 더하기 - BOJ](https://www.acmicpc.net/problem/9095) ⭕️
 

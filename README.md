@@ -81,3 +81,12 @@
 
 - [2018 kakao blind requirement](https://programmers.co.kr/learn/challenges)
 
+
+
+## 스터디원
+
+[이현우](https://github.com/l2hyunwoo)
+
+[홍민정](https://github.com/meanjung)
+
+[이재용]()

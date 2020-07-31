@@ -46,9 +46,9 @@
 
   <s>[GCD 합](https://www.acmicpc.net/problem/9613)</s>
 
-  [소수 찾기](https://www.acmicpc.net/problem/1978)
+  <s>[소수 찾기](https://www.acmicpc.net/problem/1978)</s>
 
-  [골드바흐의 추측](https://www.acmicpc.net/problem/6588)
+  [골드바흐의 추측](https://www.acmicpc.net/problem/6588)  대체 왜 시간초과?
 
 
 
@@ -80,9 +80,16 @@
 **최대공약수 최소공배수**
 
 - 최대공약수는 두 수중 작은 수까지 for문을 돌려, 두 수가 모두 나누어지는 값이 최대공약수이다. 시간 복잡도: O(N)
-- 유클리드 호제법 이용 : a = b*q + p 의 상황에서 a와 b의 최대공약수는 b와 p의 최대공약수와 같다. 시간 복잡도: O(logN)
+- **유클리드 호제법** 이용 : a = b*q + p 의 상황에서 a와 b의 최대공약수는 b와 p의 최대공약수와 같다. 시간 복잡도: O(logN)
 - [BOJ 2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
 - [최소공배수](https://www.acmicpc.net/problem/1934)
+
+**에라토스테네스의 체**
+
+- 소수 찾기 알고리즘이다. 평범하게 수 하나가 소수인지 아닌지 확인하기 위한 알고리즘의 시간 복잡도는 O(N)이다. 즉, 1부터 N까지 소수판별 알고리즘의 시간복잡도는 O(N^2)이다.
+- 에라토스테네스의 체를 이용하면 하나의 수를 소수판별하는데 시간 복잡도는 O(√N)이다. 즉 1부터 N까지 소수판별 알고리즘의 시간복잡도는 O(N√N)이다.
+- 알고리즘:
+  1. 2부터 탐색을 시작하여 자기자신을 제외한 배수를 모두 소수판별에서 제거한다.
 
 
 
@@ -91,6 +98,15 @@
 - 항상 수의 범위 체크: 더할 때 int형 범위를 넘기면 long long 써주기
 
   ex) [GCD 합](https://www.acmicpc.net/problem/9613)
+
+- C++에서 cin 과 cout 은 속도가 굉장히 느리기 때문에 아래의 명령어를 꼭 써주어야한다. 아니면 계속 시간초과가 나오게 될 수 있다.
+
+  ```c++
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  ```
+
+  ex) [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
 
 
 

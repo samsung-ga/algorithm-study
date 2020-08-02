@@ -50,6 +50,22 @@
 
   [골드바흐의 추측](https://www.acmicpc.net/problem/6588)  대체 왜 시간초과?
 
+2nd week:
+
+- **브루트 포스 - 2**
+
+  <s>[차이를 최대로](https://www.acmicpc.net/problem/10819)</s>
+
+  [외판원 순회](https://www.acmicpc.net/problem/10971)
+
+  [로또💵](https://www.acmicpc.net/problem/6603)
+
+  [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+
+  [암호 만들기](https://www.acmicpc.net/problem/1759)
+
+  [연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)
+
 
 
 ## 정리 
@@ -91,6 +107,12 @@
 - 알고리즘:
   1. 2부터 탐색을 시작하여 자기자신을 제외한 배수를 모두 소수판별에서 제거한다.
 
+**절대값**
+
+- abs()
+- 정수 절대값을 구하는 함수는 <cstdlib> 헤더파일에 존재하고, 실수 절대값 함수는 <cmath>에 존재한다.
+- [참고](https://blockdmask.tistory.com/335)
+
 
 
 ## 주의할 점❗️
@@ -107,6 +129,8 @@
   ```
 
   ex) [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
+
+- 알고리즘 문제를 풀 때 먼저 브루트 포스를 생각하고 그 후에 줄이는 방법을 생각해보자
 
 
 

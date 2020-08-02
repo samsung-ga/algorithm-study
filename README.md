@@ -48,7 +48,7 @@
 
   <s>[소수 찾기](https://www.acmicpc.net/problem/1978)</s>
 
-  [골드바흐의 추측](https://www.acmicpc.net/problem/6588)  대체 왜 시간초과?
+  [골드바흐의 추측](https://www.acmicpc.net/problem/6588)  대체 왜 시간초과? 에라토스테네스의 체로 소수를 구하는 for문을 모든 케이스마다 돌려서 시간 초과가 일어났다.. 대체 왜? 모든 케이스마다 1초는 안 넘는데..
 
 2nd week:
 

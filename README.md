@@ -92,6 +92,8 @@
   2. 또 뒤에서부터 탐색하여 i로 지정한 수보다 큰 수를 찾고 j로 지정한다.
   3. i와 j를 swap한다.
   4. ii를 포함한 뒤 모든 수를 reverse 한다.
+- next_permutation의 시간 복잡도는 O(N)이다.
+- [다음 순열](https://www.acmicpc.net/problem/10972) 
 
 **최대공약수 최소공배수**
 

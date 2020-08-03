@@ -60,9 +60,9 @@
 
   <s>[로또💵](https://www.acmicpc.net/problem/6603)</s>
 
-  [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  <s>[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)</s>
 
-  [암호 만들기](https://www.acmicpc.net/problem/1759)
+  <s>[암호 만들기](https://www.acmicpc.net/problem/1759)</s>
 
   [연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)
 
@@ -98,8 +98,14 @@
 **조합**
 
 - 순열과 같은 algorithm헤더파일의 메소드로 구현 가능하다. 이 때, 0,1로 이루어진 배열을 하나 더 만들어 주어 이 배열을 do while문을 이용하여 돌려야 한다.
+
 - 조합을 구하는 문제를 순열로 풀 경우 시간 초과가 나기 쉽다.
-- [로또💵](https://www.acmicpc.net/problem/6603)
+
+- [로또💵](https://www.acmicpc.net/problem/6603) : 기본 조합 문제
+
+  [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) : 응용 조합 문제 4C2
+
+  [암호 만들기](https://www.acmicpc.net/problem/1759) : 다른 조건이 포함된 조합 문제
 
 **최대공약수 최소공배수**
 

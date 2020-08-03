@@ -56,9 +56,9 @@
 
   <s>[차이를 최대로](https://www.acmicpc.net/problem/10819)</s>
 
-  [외판원 순회](https://www.acmicpc.net/problem/10971)
+  <s>[외판원 순회](https://www.acmicpc.net/problem/10971)</s>
 
-  [로또💵](https://www.acmicpc.net/problem/6603)
+  <s>[로또💵](https://www.acmicpc.net/problem/6603)</s>
 
   [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 
@@ -95,6 +95,12 @@
 - next_permutation의 시간 복잡도는 O(N)이다.
 - [다음 순열](https://www.acmicpc.net/problem/10972) 
 
+**조합**
+
+- 순열과 같은 algorithm헤더파일의 메소드로 구현 가능하다. 이 때, 0,1로 이루어진 배열을 하나 더 만들어 주어 이 배열을 do while문을 이용하여 돌려야 한다.
+- 조합을 구하는 문제를 순열로 풀 경우 시간 초과가 나기 쉽다.
+- [로또💵](https://www.acmicpc.net/problem/6603)
+
 **최대공약수 최소공배수**
 
 - 최대공약수는 두 수중 작은 수까지 for문을 돌려, 두 수가 모두 나누어지는 값이 최대공약수이다. 시간 복잡도: O(N)
@@ -112,7 +118,7 @@
 **절대값**
 
 - abs()
-- 정수 절대값을 구하는 함수는 <cstdlib> 헤더파일에 존재하고, 실수 절대값 함수는 <cmath>에 존재한다.
+- 정수 절대값을 구하는 함수는 cstdlib 헤더파일에 존재하고, 실수 절대값 함수는 cmath에 존재한다.
 - [참고](https://blockdmask.tistory.com/335)
 
 

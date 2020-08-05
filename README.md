@@ -64,9 +64,9 @@
 
   <s>[암호 만들기](https://www.acmicpc.net/problem/1759)</s>
 
-  [연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)
+  [연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658) 시간초과.. 간단한 조합구하는 문제가 아닌듯..!
 
-
+- <s>SW Expert Academy D1 단계</s>
 
 ## 정리 
 

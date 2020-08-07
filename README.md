@@ -68,6 +68,24 @@
 
 - <s>SW Expert Academy D1 단계</s>
 
+- **브루트 포스 - 3**
+
+  <s>[부분수열의 합](https://www.acmicpc.net/problem/1182)</s>
+
+  [퇴사😃](https://www.acmicpc.net/problem/14501)
+
+  [집합](https://www.acmicpc.net/problem/11723)
+
+  [N과 M (1)](https://www.acmicpc.net/problem/15649)
+
+  [N과 M (2)](https://www.acmicpc.net/problem/15650)
+
+  [N과 M (3)](https://www.acmicpc.net/problem/15651)
+
+  [N과 M (4)](https://www.acmicpc.net/problem/15652)
+
+  
+
 ## 정리 
 
 **반올림** 
@@ -106,6 +124,10 @@
   [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) : 응용 조합 문제 4C2
 
   [암호 만들기](https://www.acmicpc.net/problem/1759) : 다른 조건이 포함된 조합 문제
+  
+  [부분수열의 합](https://www.acmicpc.net/problem/1182) : 응용 조합 문제 시간 초과 안된다! 20C1+20C2 + ... + 20C20 
+  
+  
 
 **최대공약수 최소공배수**
 

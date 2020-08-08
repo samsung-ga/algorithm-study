@@ -149,6 +149,21 @@
 - 정수 절대값을 구하는 함수는 cstdlib 헤더파일에 존재하고, 실수 절대값 함수는 cmath에 존재한다.
 - [참고](https://blockdmask.tistory.com/335)
 
+**집합**
+
+- c++에서는 swift와 다르게 집합을 직접 구현해주어야 한다. 라이브러리 `set`헤더파일이 존재하지만 사용하기 어렵고, vector로 구현해도 시간 차이는 별로 없다!
+- `vector`헤더파일의 erase메소드는 iter를 가리켜주어야하고 iter는 아래와 같이 선언가능하다.
+
+```c++
+#include <vector>
+vector<int> v;
+vector<int>::iterator iter = v.begin();
+
+// i는 지우고 싶은 index
+int i = 0;
+v.erase(iter + i);
+```
+
 
 
 ## 주의할 점❗️

@@ -74,11 +74,11 @@
 
   [퇴사😃](https://www.acmicpc.net/problem/14501)
 
-  [집합](https://www.acmicpc.net/problem/11723)
+  <s>[집합](https://www.acmicpc.net/problem/11723)</s>
 
-  [N과 M (1)](https://www.acmicpc.net/problem/15649)
+  <s>[N과 M (1)](https://www.acmicpc.net/problem/15649)</s>
 
-  [N과 M (2)](https://www.acmicpc.net/problem/15650)
+  <s>[N과 M (2)](https://www.acmicpc.net/problem/15650)</s>
 
   [N과 M (3)](https://www.acmicpc.net/problem/15651)
 
@@ -183,7 +183,7 @@ v.erase(iter + i);
 
 - 알고리즘 문제를 풀 때 먼저 브루트 포스를 생각하고 그 후에 줄이는 방법을 생각해보자
 
-
+- 함수를 만들면 `return;` 을 해주어야 한다.
 
 ## 참고자료
 

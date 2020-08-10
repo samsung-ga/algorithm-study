@@ -80,11 +80,14 @@
 
   <s>[N과 M (2)](https://www.acmicpc.net/problem/15650)</s>
 
-  [N과 M (3)](https://www.acmicpc.net/problem/15651)
+  <s>[N과 M (3)](https://www.acmicpc.net/problem/15651)</s>
 
   [N과 M (4)](https://www.acmicpc.net/problem/15652)
 
-  
+
+3rd week:
+
+- 
 
 ## 정리 
 
@@ -127,7 +130,26 @@
   
   [부분수열의 합](https://www.acmicpc.net/problem/1182) : 응용 조합 문제 시간 초과 안된다! 20C1+20C2 + ... + 20C20 
   
+
+**순열 조합의 dfs 풀이법**
+
+> 기본적인 풀이법
+
+```c++
+void dfs() {
   
+}
+```
+
+- 순열일 경우 순서가 상관 있으므로 visited라는 배열을 따로 만들어 방문했는지 안했는지 체크해준다.
+- 조합일 경우 순서가 상관 없으므로 가장 작은 index 값부터 새 배열에 집어넣는다.
+- 중복순열일 경우 모든 수를 정렬시키면 되므로 기본 dfs 형태에서 0부터 배열크기까지 반복문을 돌린다.
+
+
+
+
+
+
 
 **최대공약수 최소공배수**
 

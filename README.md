@@ -92,7 +92,7 @@
 
   <s>[N과 M(6)](https://www.acmicpc.net/problem/15655)</s>
 
-  [ABCDE](https://www.acmicpc.net/problem/13023)
+  <s>[ABCDE](https://www.acmicpc.net/problem/13023)</s>
 
   <s>[DFS와 BFS](https://www.acmicpc.net/problem/1260)</s>
 

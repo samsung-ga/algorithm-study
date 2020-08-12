@@ -20,7 +20,7 @@
 
 1st week: 
 
-- **브루트 포스 - 1**
+- **브루트 포스 - 1** ⭕️
 
   <s>[일곱 난쟁이 - BOJ](https://www.acmicpc.net/problem/2309)</s>
 
@@ -36,7 +36,7 @@
 
   <s>[모든 순열 - BOJ](https://www.acmicpc.net/problem/10974)</s>
 
-- **수학**
+- **수학** ⭕️
 
   <s>[나머지](https://www.acmicpc.net/problem/10430)</s>
 
@@ -52,7 +52,7 @@
 
 2nd week:
 
-- **브루트 포스 - 2**
+- **브루트 포스 - 2** ⭕️
 
   <s>[차이를 최대로](https://www.acmicpc.net/problem/10819)</s>
 
@@ -68,7 +68,7 @@
 
 - <s>SW Expert Academy D1 단계</s>
 
-- **브루트 포스 - 3**
+- **브루트 포스 - 3** 
 
   <s>[부분수열의 합](https://www.acmicpc.net/problem/1182)</s>
 
@@ -82,12 +82,21 @@
 
   <s>[N과 M (3)](https://www.acmicpc.net/problem/15651)</s>
 
-  [N과 M (4)](https://www.acmicpc.net/problem/15652)
-
+  <s>[N과 M (4)](https://www.acmicpc.net/problem/15652)</s>
 
 3rd week:
 
-- 
+- **브루트 포스 - 4 / BFS, DFS - 1**
+
+  <s>[N과 M(5)](https://www.acmicpc.net/problem/15654)</s>
+
+  <s>[N과 M(6)](https://www.acmicpc.net/problem/15655)</s>
+
+  [ABCDE](https://www.acmicpc.net/problem/13023)
+
+  <s>[DFS와 BFS](https://www.acmicpc.net/problem/1260)</s>
+
+  <s>[연결 요소의 개수](https://www.acmicpc.net/problem/11724)</s>
 
 ## 정리 
 
@@ -144,10 +153,6 @@ void dfs() {
 - 순열일 경우 순서가 상관 있으므로 visited라는 배열을 따로 만들어 방문했는지 안했는지 체크해준다.
 - 조합일 경우 순서가 상관 없으므로 가장 작은 index 값부터 새 배열에 집어넣는다.
 - 중복순열일 경우 모든 수를 정렬시키면 되므로 기본 dfs 형태에서 0부터 배열크기까지 반복문을 돌린다.
-
-
-
-
 
 
 

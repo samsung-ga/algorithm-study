@@ -98,6 +98,26 @@
 
   <s>[연결 요소의 개수](https://www.acmicpc.net/problem/11724)</s>
 
+4rd week
+
+- **브루트 포스 - 5 / DFS - 2**
+
+  [N과 M(7)](https://www.acmicpc.net/problem/15656)
+
+  [N과 M(8)]([https://www.acmicpc.net/problem/1565](https://www.acmicpc.net/problem/15655)7)
+
+  [N과 M(9)](https://www.acmicpc.net/problem/15663)
+
+  [이분 그래프](https://www.acmicpc.net/problem/1707)
+
+  [단지번호붙이기](https://www.acmicpc.net/problem/2667)
+
+  [섬의 개수](https://www.acmicpc.net/problem/4963)
+
+  [미로 탐색](https://www.acmicpc.net/problem/2178)
+
+  
+
 ## 정리 
 
 **반올림** 

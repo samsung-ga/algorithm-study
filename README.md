@@ -102,11 +102,11 @@
 
 - **브루트 포스 - 5 / DFS - 2**
 
-  [N과 M(7)](https://www.acmicpc.net/problem/15656)
+  <s>[N과 M(7)](https://www.acmicpc.net/problem/15656)</s>
 
-  [N과 M(8)]([https://www.acmicpc.net/problem/1565](https://www.acmicpc.net/problem/15655)7)
+  <s>[N과 M(8)]([https://www.acmicpc.net/problem/1565](https://www.acmicpc.net/problem/15655)7)</s>
 
-  [N과 M(9)](https://www.acmicpc.net/problem/15663)
+  <s>[N과 M(9)](https://www.acmicpc.net/problem/15663)</s>
 
   [이분 그래프](https://www.acmicpc.net/problem/1707)
 
@@ -116,11 +116,34 @@
 
   [미로 탐색](https://www.acmicpc.net/problem/2178)
 
-  
+
+5rd week
+
+- **브루트 포스 - 6/DFS - 3/DP - 1**
+
+  [N과 M(10)](https://www.acmicpc.net/problem/15664)
+
+  [N과 M(11)](https://www.acmicpc.net/problem/15665)
+
+  [N과 M(12)](https://www.acmicpc.net/problem/15666)
+
+  [토마토](https://www.acmicpc.net/problem/7576)
+
+  [숨바꼭질](https://www.acmicpc.net/problem/1697)
+
+  [이모티콘](https://www.acmicpc.net/problem/14226)
+
+  [숨바꼭질3](https://www.acmicpc.net/problem/13549)
+
+  [1로 만들기](https://www.acmicpc.net/problem/1463)
+
+  [2xn 타일링](https://www.acmicpc.net/problem/11726)
+
+  [2xn 타일링 2](https://www.acmicpc.net/problem/11727)
+
+
 
 ## 정리 
-
-
 
 **반올림** 
 

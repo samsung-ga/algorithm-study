@@ -7,7 +7,7 @@
 
 ## 방식
 
-> 1. 기한: 7/27 ~ 
+> 1. 기한: 2020/7/27 ~ 
 > 2. Notion으로 과제 칸반보드를 통해 과제 리스트 확인하고 풀기
 > 3. 문제풀이 질문이나 풀이 공유는 **질문/코드리뷰** 이용
 > 4. [백준](https://www.acmicpc.net), [swexpertacademy](https://swexpertacademy.com/main/code/problem/problemList.do?) 등의 코테문제에서 단계별로 풀기
@@ -110,12 +110,11 @@
 
   [이분 그래프](https://www.acmicpc.net/problem/1707)
 
-  [단지번호붙이기](https://www.acmicpc.net/problem/2667)
+  <s>[단지번호붙이기](https://www.acmicpc.net/problem/2667)</s>
 
-  [섬의 개수](https://www.acmicpc.net/problem/4963)
+  <s>[섬의 개수](https://www.acmicpc.net/problem/4963)</s>
 
-  [미로 탐색](https://www.acmicpc.net/problem/2178)
-
+  <s>[미로 탐색](https://www.acmicpc.net/problem/2178)</s> 최단거리문제는 dfs가 아니라 bfs로 풀어주어야한다.
 
 5rd week
 
@@ -188,10 +187,30 @@
 **순열 조합의 dfs 풀이법**
 
 > 기본적인 풀이법
+>
+> N과 M 문제 - 백트래킹
 
 ```c++
-void dfs() {
-  
+// 순열일경우
+int visited[];
+void dfs(int index, vector<int> result, vector<int> v, int n) {
+  if (index == n) {
+    for (int i = 0; i < result.size(); i++) {
+      cout << result[i] << " ";
+    }
+    cout << "\n";
+  }
+  // 조합일경우
+  // int smallest = result.empty() ? 0 : result.back();
+  for (int i = 0; i < v.size(); i++) {
+    if (visited[v[i]] == false) { // 순열일경우
+    	result.push(v[i]);
+    	visited[v[i]] = true; // 순열일경우
+    	dfs(index+1, result, v, n);
+  	  visited[v[i]] = false; // 순열일경우
+  		result.pop();  
+    }
+  }
 }
 ```
 
@@ -255,17 +274,17 @@ v.erase(iter + i);
   }
   ```
 
-  
-
   인접 행렬 표현
 
   ```c++
-  vector<vector<bool>> adjacent;
+vector<vector<bool>> adjacent;
   ```
-
+  
   가중치 등 간선이 추가적인 속성을 가지고 싶을 때엔 int형으로 바꾸어 가중치 값을 저장한다.
 
+**최단거리문제**
 
+- 최단 거리 문제는 DFS로 할 수 없습니다. 각 칸에 처음으로 도달한 순간이 가장 빠르게 도달한 경로라는 보장이 없기 때문에 매번 재방문을 해야 하는데, 이것이 반복되면 시간 복잡도가 지수 형태가 되어 너무 오래 걸리게 됩니다.
 
 **동적 계획법**
 

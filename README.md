@@ -120,13 +120,13 @@
 
 - **브루트 포스 - 6/DFS - 3/DP - 1**
 
-  [N과 M(10)](https://www.acmicpc.net/problem/15664)
+  <s>[N과 M(10)](https://www.acmicpc.net/problem/15664)</s>
 
-  [N과 M(11)](https://www.acmicpc.net/problem/15665)
+  <s>[N과 M(11)](https://www.acmicpc.net/problem/15665)</s>
 
-  [N과 M(12)](https://www.acmicpc.net/problem/15666)
+  <s>[N과 M(12)](https://www.acmicpc.net/problem/15666)</s>
 
-  [토마토](https://www.acmicpc.net/problem/7576)
+  <s>[토마토](https://www.acmicpc.net/problem/7576)</s>
 
   [숨바꼭질](https://www.acmicpc.net/problem/1697)
 
@@ -215,8 +215,13 @@ void dfs(int index, vector<int> result, vector<int> v, int n) {
 ```
 
 - 순열일 경우 순서가 상관 있으므로 visited라는 배열을 따로 만들어 방문했는지 안했는지 체크해준다.
-- 조합일 경우 순서가 상관 없으므로 가장 작은 index 값부터 새 배열에 집어넣는다.
+
+- 조합일 경우 순서가 상관 없으므로 가장 작은 index + 1 값부터 새 배열에 집어넣는다.
+
 - 중복순열일 경우 모든 수를 정렬시키면 되므로 기본 dfs 형태에서 0부터 배열크기까지 반복문을 돌린다.
+
+- 중복조합일 경우 순서가 상관 없으므로 가장 작은 index 값부터 새 배열에 집어넣는다. 
+
 
 **최대공약수 최소공배수**
 
@@ -282,9 +287,10 @@ vector<vector<bool>> adjacent;
   
   가중치 등 간선이 추가적인 속성을 가지고 싶을 때엔 int형으로 바꾸어 가중치 값을 저장한다.
 
-**최단거리문제**
+**그래프 탐색 문제**
 
-- 최단 거리 문제는 DFS로 할 수 없습니다. 각 칸에 처음으로 도달한 순간이 가장 빠르게 도달한 경로라는 보장이 없기 때문에 매번 재방문을 해야 하는데, 이것이 반복되면 시간 복잡도가 지수 형태가 되어 너무 오래 걸리게 됩니다.
+- DFS는 stack, BFS는 queue를 이용한다.
+- ***최단거리문제***: 최단 거리 문제는 DFS로 할 수 없습니다. 각 칸에 처음으로 도달한 순간이 가장 빠르게 도달한 경로라는 보장이 없기 때문에 매번 재방문을 해야 하는데, 이것이 반복되면 시간 복잡도가 지수 형태가 되어 너무 오래 걸리게 됩니다.
 
 **동적 계획법**
 

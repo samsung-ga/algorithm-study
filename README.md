@@ -320,6 +320,18 @@ vector<vector<bool>> adjacent;
 
 - 함수를 만들면 `return;` 을 해주어야 한다.
 
+- "런타임오류"는 범위를 초과했을 경우에도 생긴다. 아래와 같은 상황을 조심하자.
+
+  ```c++
+  bool visited[1000];
+  // 맞는 경우
+  if (x - 1 >= 0 && visited[x - 1] == false) {}
+  // 틀린 경우
+  if (visited[x - 1] == false && x - 1 >= 0) {}
+  ```
+
+  
+
 ## 참고자료
 
 - [2018 kakao blind requirement](https://programmers.co.kr/learn/challenges)

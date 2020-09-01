@@ -330,7 +330,11 @@ vector<vector<bool>> adjacent;
   if (visited[x - 1] == false && x - 1 >= 0) {}
   ```
 
-  
+- 출력 값에 큰 수를 나눈 나머지를 구하라는 문제들이 있다.
+
+  <img src="https://user-images.githubusercontent.com/56102421/91835129-ea0fdb00-ec83-11ea-90a2-9da74b20a2eb.png" width="50%"> 
+
+  이런 경우 dp문제인 경우가 많고, 나눈 값을 저장해야 한다.
 
 ## 참고자료
 

@@ -128,17 +128,17 @@
 
   <s>[토마토](https://www.acmicpc.net/problem/7576)</s>
 
-  [숨바꼭질](https://www.acmicpc.net/problem/1697)
+  <s>[숨바꼭질](https://www.acmicpc.net/problem/1697)</s>
 
-  [이모티콘](https://www.acmicpc.net/problem/14226)
+  [이모티콘](https://www.acmicpc.net/problem/14226) 메모리초과뜸 pair<int, pair<int, int>> 주의
 
-  [숨바꼭질3](https://www.acmicpc.net/problem/13549)
+  <s>[숨바꼭질3](https://www.acmicpc.net/problem/13549)</s>
 
-  [1로 만들기](https://www.acmicpc.net/problem/1463)
+  <s>[1로 만들기](https://www.acmicpc.net/problem/1463)</s>
 
-  [2xn 타일링](https://www.acmicpc.net/problem/11726)
+  <s>[2xn 타일링](https://www.acmicpc.net/problem/11726)</s>
 
-  [2xn 타일링 2](https://www.acmicpc.net/problem/11727)
+  <s>[2xn 타일링 2](https://www.acmicpc.net/problem/11727)</s>
 
 
 
@@ -302,6 +302,7 @@ vector<vector<bool>> adjacent;
 **다이나믹 프로그래밍(DP)**
 
 - 점화식 세우기!!!!!!!!!
+- 이중배열의 경우도 있다
 
 
 
@@ -338,7 +339,7 @@ vector<vector<bool>> adjacent;
 
   <img src="https://user-images.githubusercontent.com/56102421/91835129-ea0fdb00-ec83-11ea-90a2-9da74b20a2eb.png" width="50%"> 
 
-  이런 경우 dp문제인 경우가 많고, 나눈 값을 저장해야 한다.
+  이런 경우 dp문제인 경우가 많고, 나눈 값을 저장해야 한다. 나오는 모든 결과값을 나누어주자
 
 ## 참고자료
 

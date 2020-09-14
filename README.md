@@ -20,6 +20,21 @@
 
 1st week: 
 
+| 주제                | 문제                                                         | 완료 |
+| ------------------- | ------------------------------------------------------------ | ---- |
+| **브루트 포스 - 1** | [일곱 난쟁이 - BOJ](https://www.acmicpc.net/problem/2309)    | O    |
+|                     | [날짜 계산 - BOJ](https://www.acmicpc.net/problem/1476)      | O    |
+|                     | <s>[테트로미노 - BOJ](https://www.acmicpc.net/problem/14500)</s> |      |
+|                     | <s>[1,2,3 더하기 - BOJ](https://www.acmicpc.net/problem/9095)</s> |      |
+|                     | <s>[다음 순열 - BOJ](https://www.acmicpc.net/problem/10972)</s> |      |
+|                     | <s>[이전 순열 - BOJ](https://www.acmicpc.net/problem/10973)</s> |      |
+|                     | <s>[모든 순열 - BOJ](https://www.acmicpc.net/problem/10974)</s> |      |
+| **수학**            | <s>[나머지](https://www.acmicpc.net/problem/10430)</s>       |      |
+|                     | <s>[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)</s> |      |
+|                     |                                                              |      |
+
+
+
 - **브루트 포스 - 1** ⭕️
 
   <s>[일곱 난쟁이 - BOJ](https://www.acmicpc.net/problem/2309)</s>
@@ -160,9 +175,9 @@
 
   <s>[쉬운 계단 수](https://www.acmicpc.net/problem/10844)</s>
 
-  <s>[오르막 수</s>](https://www.acmicpc.net/problem/11057)
+  <s>[오르막 수](https://www.acmicpc.net/problem/11057)</s>
 
-  <s>[이찬수</s>](https://www.acmicpc.net/problem/2193)
+  <s>[이찬수](https://www.acmicpc.net/problem/2193)</s>
 
 ## 정리 
 
@@ -333,6 +348,10 @@ v.erase(iter + i);
   <img src="https://user-images.githubusercontent.com/56102421/91835129-ea0fdb00-ec83-11ea-90a2-9da74b20a2eb.png" width="50%"> 
 
   이런 경우 dp문제인 경우가 많고, 나눈 값을 저장해야 한다. 나오는 모든 결과값을 나누어주자
+  
+- 그래프 다루는 문제에서 주의할 점!!!은 가로 세로가 다른 그래프인 경우에 n과 m이 행인지 열인지 헤갈릴 경우가 있다. 조심하자!! 이중배열에서 앞은 무조건 가로줄, 뒤는 무조건 세로줄 
+
+  이런 것때매 헤갈리므로 원래는 테두리를 접근 불가능한 수로 둘러쌓게 만들어줬는데.. 이번엔 안그렇게 해볼라하니까 x,y헤갈려서 헤맴 ㅠ 테두리로 감싸주는 것이 제일 좋은 방법인듯!!
 
 ## 참고자료
 

@@ -1,5 +1,5 @@
 # Algorithm_Study
-알고리즘 스터디합시다!
+알고리즘 공부하자!
 
 ## 목표
 - 모든 알고리즘 문제들을 1문제당 30분안에 풀 수 있는 역량 기르기
@@ -7,16 +7,15 @@
 
 ## 방식
 
-> 1. 기한: 2020/7/27 ~ 
-> 2. Notion으로 과제 칸반보드를 통해 과제 리스트 확인하고 풀기
-> 3. 문제풀이 질문이나 풀이 공유는 **질문/코드리뷰** 이용
-> 4. [백준](https://www.acmicpc.net), [swexpertacademy](https://swexpertacademy.com/main/code/problem/problemList.do?) 등의 코테문제에서 단계별로 풀기
+- 기한: 2020/7/27 ~ 끝이 안보임
+
+- Notion으로 과제 칸반보드를 통해 과제 리스트 확인하고 풀기
+
+- 문제풀이 질문이나 풀이 공유는 **질문/코드리뷰** 이용
 
 
 
-## 주차별 주제
-
-**문제 풀이**
+## 문제
 
 | 주제                                   | 문제                                                         | 완료 | 기타 |
 | -------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
@@ -40,7 +39,7 @@
 |                                        | <s>[암호 만들기](https://www.acmicpc.net/problem/1759)</s>   | O    |      |
 |                                        | <s>[연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)</s> | O    |      |
 | **브루트 포스 - 3**                    | <s>[부분수열의 합](https://www.acmicpc.net/problem/1182)</s> | O    |      |
-|                                        | [퇴사😃](https://www.acmicpc.net/problem/14501)               |      |      |
+|                                        | [퇴사😃](https://www.acmicpc.net/problem/14501)               | O    |      |
 |                                        | <s>[집합](https://www.acmicpc.net/problem/11723)</s>         | O    |      |
 |                                        | <s>[N과 M (1)](https://www.acmicpc.net/problem/15649)</s>    | O    |      |
 |                                        | <s>[N과 M (2)](https://www.acmicpc.net/problem/15650)</s>    | O    |      |
@@ -91,23 +90,13 @@
 |                                        | [합분해](https://www.acmicpc.net/problem/2225)               |      |      |
 |                                        |                                                              |      |      |
 
-#### **참고**
-
-골드바흐의 추측 : 대체 왜 시간초과?에라토스테네스의 체로 소수를 구하는 for문을 모든 케이스마다 돌려서 시간 초과가 일어났다.. 대체 왜? 모든 케이스마다 1초는 안 넘는데..
-
-연산자 끼워넣기(2) : 시간초과.. 간단한 조합구하는 문제가 아닌듯..!
-
-<s>SW Expert Academy D1 단계</s>
-
-이모티콘 :  메모리초과뜸 pair<int, pair<int, int>> 주의
-
-탈출 : 이 문제는 map을 int로 선언하면 60퍼에서 틀리고 char로 선언해야만 맞는다.. 대체 뭐가 문제였을까?
-
 
 
 ## 참고자료
 
 - [2018 kakao blind requirement](https://programmers.co.kr/learn/challenges)
+- [boj](https://www.acmicpc.net/)
+- [sw expert academy]()
 
 
 

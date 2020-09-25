@@ -77,15 +77,15 @@
 |                                        | <s>[쉬운 계단 수](https://www.acmicpc.net/problem/10844)</s> | O    |      |
 |                                        | <s>[오르막 수](https://www.acmicpc.net/problem/11057)</s>    | O    |      |
 |                                        | <s>[이찬수](https://www.acmicpc.net/problem/2193)</s>        | O    |      |
-| **DP - 3**                             | [스티커](https://www.acmicpc.net/problem/9465)               |      |      |
-|                                        | [포도주 시식](https://www.acmicpc.net/problem/2156)          |      |      |
-|                                        | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |      |      |
+| **DP - 3**                             | [스티커](https://www.acmicpc.net/problem/9465)               | O    |      |
+|                                        | [포도주 시식](https://www.acmicpc.net/problem/2156)          | O    |      |
+|                                        | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | O    |      |
 |                                        | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |      |      |
 |                                        | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |      |      |
 |                                        | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |      |      |
 |                                        | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |      |      |
-|                                        | [연속합](https://www.acmicpc.net/problem/1912)               |      |      |
-|                                        | [연속합 2](https://www.acmicpc.net/problem/13398)            |      |      |
+|                                        | [연속합](https://www.acmicpc.net/problem/1912)               | O    |      |
+|                                        | [연속합 2](https://www.acmicpc.net/problem/13398)            | O    |      |
 |                                        | [제곱수의 합](https://www.acmicpc.net/problem/1699)          |      |      |
 |                                        | [합분해](https://www.acmicpc.net/problem/2225)               |      |      |
 |                                        |                                                              |      |      |
@@ -107,3 +107,4 @@
 [홍민정](https://github.com/meanjung)
 
 [이재용]()
+

@@ -83,7 +83,7 @@
 |                                        | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |      | 틀렸습니다. |
 |                                        | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) | O    |             |
 |                                        | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | O    |             |
-|                                        | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |      |             |
+|                                        | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | O    |             |
 |                                        | [연속합](https://www.acmicpc.net/problem/1912)               | O    |             |
 |                                        | [연속합 2](https://www.acmicpc.net/problem/13398)            | O    |             |
 |                                        | [제곱수의 합](https://www.acmicpc.net/problem/1699)          |      |             |

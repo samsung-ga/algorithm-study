@@ -92,6 +92,12 @@
 
 
 
+## 코딩테스트 연습
+
+- [programmers 스킬 체크](https://programmers.co.kr/skill_checks) - Level 1
+
+  
+
 ## 참고자료
 
 - [2018 kakao blind requirement](https://programmers.co.kr/learn/challenges)

@@ -1,18 +1,9 @@
 # Algorithm_Study
-알고리즘 공부하자!
 
 ## 목표
 - 모든 알고리즘 문제들을 1문제당 30분안에 풀 수 있는 역량 기르기
 - 카카오나 네이버의 코딩테스트 문제들을 손쉽게 풀 수 있게 하기 
-
-## 방식
-
 - 기한: 2020/7/27 ~ 끝이 안보임
-
-- Notion으로 과제 칸반보드를 통해 과제 리스트 확인하고 풀기
-
-- 문제풀이 질문이나 풀이 공유는 **질문/코드리뷰** 이용
-
 
 
 ## 문제
@@ -103,14 +94,4 @@
 - [2018 kakao blind requirement](https://programmers.co.kr/learn/challenges)
 - [boj](https://www.acmicpc.net/)
 - [sw expert academy]()
-
-
-
-## 스터디원
-
-[이현우](https://github.com/l2hyunwoo)
-
-[홍민정](https://github.com/meanjung)
-
-[이재용]()
 

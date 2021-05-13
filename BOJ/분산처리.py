@@ -17,10 +17,3 @@ while n:
     else:
         temp = b % 4
         print(lastcomputer(a, temp))
-
-# 5
-# 1 6
-# 3 7
-# 6 2
-# 7 100
-# 9 635

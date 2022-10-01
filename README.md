@@ -1,16 +1,14 @@
-# Algorithm_Study 
-
 <div align="center"><h3>꾸준히, 천천히 알고리즘 정복해나기기</h3></div>
 
-## Problems
+<br />
 
-### Programmers 
+# Problems
 
 - 2022년 9월 29일 (목요일)부터 작성
 
 | 문제                         | Level | 관련 링크                                                    |
 | ---------------------------- | ----- | ------------------------------------------------------------ |
-| [수식 최대화](./Programmers/두 큐 합 같게 만들기.swift)                  | 2     | [풀이](https://wodyios.tistory.com/63)                       |
+| [수식 최대화](./Programmers/두 큐 합 같게 만들기.swift)                  | 2     | [풀이](https://wodyios.tistory.com/63)     |
 | 삼각 달팽이                  | 2     | [풀이](https://wodyios.tistory.com/62)                     |
 | 수식 최대화                  | 2     | [풀이](https://wodyios.tistory.com/61)                       |
 | 방금그곡                     | 2     |                                                              |
@@ -55,7 +53,6 @@
 | 문자열 압축                  |       |                                                              |
 | 순위검색                     |       |                                                              |
 | 숫자 문자열과 영단어         |       |                                                              |
-
 | 압축                         |       |                                                              |
 | 위장                         |       |                                                              |
 | 짝지어 제거하기              |       |                                                              |

@@ -8,10 +8,10 @@
 
 | 문제                         | Level | 관련 링크                                                    |
 | ---------------------------- | ----- | ------------------------------------------------------------ |
-| [양궁 대회](./Programmers/양궁 대회.swift)                  | 2     | [풀이](https://wodyios.tistory.com/65)     |
-| [수식 최대화](./Programmers/두 큐 합 같게 만들기.swift)                  | 2     | [풀이](https://wodyios.tistory.com/63)     |
-| 삼각 달팽이                  | 2     | [풀이](https://wodyios.tistory.com/62)                     |
-| 수식 최대화                  | 2     | [풀이](https://wodyios.tistory.com/61)                       |
+| [양궁 대회](./Programmers/양궁-대회.swift)                  | 2     | [풀이](https://wodyios.tistory.com/65)     |
+| [두 큐 합 같게 만들기](./Programmers/두-큐-합-같게-만들기.swift)                  | 2     | [풀이](https://wodyios.tistory.com/63)     |
+| [삼각 달팽이](./Programmers/삼각-달팽이.swift)                  | 2     | [풀이](https://wodyios.tistory.com/62)                     |
+| [수식 최대화](./Programmers/수식-최대화.swift)                  | 2     | [풀이](https://wodyios.tistory.com/61)     |
 | 방금그곡                     | 2     |                                                              |
 | 최댓값과 최솟값              | 2     |                                                              |
 | 올바른 괄호                  | 2     |                                                              |

@@ -8,6 +8,7 @@
 
 | 문제                         | Level | 관련 링크                                                    |
 | ---------------------------- | ----- | ------------------------------------------------------------ |
+| [옹알이](Programmers/옹알이.swift)                  | 0     |                                           |
 | [양궁 대회](Programmers/양궁%20대회.swift)                  | 2     | [풀이](https://wodyios.tistory.com/65)     |
 | [두 큐 합 같게 만들기](Programmers/두%20큐%20합%20같게%20만들기.swift)                  | 2     | [풀이](https://wodyios.tistory.com/63)     |
 | [삼각 달팽이](Programmers/달팽이.swift)                  | 2     | [풀이](https://wodyios.tistory.com/62)                     |

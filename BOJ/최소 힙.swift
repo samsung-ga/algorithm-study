@@ -1,5 +1,5 @@
 //
-//  heap_index0.swift
+//  최소 힙.swift
 //  Coding_Test_Swift
 //
 //  Created by Woody on 2022/10/10.
@@ -60,9 +60,10 @@ struct Heap<T: Comparable> {
         }
 
         tree.swapAt(0, count - 1)
-        let value = tree.removeLast()
-        moveDown(from: 0)
-        return value
+        defer {
+            moveDown(from: 0)
+        }
+        return tree.removeLast()
     }
 
     mutating func moveDown(from index: Int) {
@@ -86,3 +87,19 @@ struct Heap<T: Comparable> {
         }
     }
 }
+
+let n = Int(readLine()!)!
+var heap = Heap<Int>(sort: <)
+for _ in 0..<n {
+    let value =  Int(readLine()!)!
+    if value == 0 {
+        if let top = heap.pop() {
+            print(top)
+        } else {
+            print("0")
+        }
+    } else {
+        heap.insert(value)
+    }
+}
+

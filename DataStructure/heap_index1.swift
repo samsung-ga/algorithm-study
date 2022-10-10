@@ -69,9 +69,7 @@ struct Heap<T: Comparable> {
 
         tree.swapAt(1, tree.count - 1)
         let value = tree.removeLast()
-
         moveDown(from: 1)
-
         return value
     }
 

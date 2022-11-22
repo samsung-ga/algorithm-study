@@ -8,6 +8,7 @@
 
 | 문제                         | Level | 관련 링크                                                    |
 | ---------------------------- | ----- | ------------------------------------------------------------ |
+| [섬 연결하기](Programmers/섬 연결하기.swift) | 3 |  |
 | [표 편집](Programmers/표 편집.swift) | 3 | [풀이](https://wodyios.tistory.com/76) |
 | [등산코스 정하기](Programmers/등산코스 정하기.swift) | 3 | [풀이](https://wodyios.tistory.com/75) |
 | [햄버거 만들기](Programmers/햄버거 만들기.swift) | 1 |  |

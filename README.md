@@ -90,5 +90,5 @@
 
 | 문제                         | 관련 링크                                                    |
 | ---------------------------- | ------------------------------------------------------------ |
-| [1129. Shortest Path with Alternating Colors](leetcode/1129.-Shortest-Path-with-Alternating-Colors) | |
+| [1129. Shortest Path with Alternating Colors](LeetCode/1129.%20Shortest%20Path%20with%20Alternating%20Colors.swift) | |
 

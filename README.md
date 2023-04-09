@@ -8,10 +8,10 @@
 
 | 문제                         | Level | 관련 링크                                                    |
 | ---------------------------- | ----- | ------------------------------------------------------------ |
-| [섬 연결하기](Programmers/섬 연결하기.swift) | 3 |  |
-| [표 편집](Programmers/표 편집.swift) | 3 | [풀이](https://wodyios.tistory.com/76) |
-| [등산코스 정하기](Programmers/등산코스 정하기.swift) | 3 | [풀이](https://wodyios.tistory.com/75) |
-| [햄버거 만들기](Programmers/햄버거 만들기.swift) | 1 |  |
+| [섬 연결하기](Programmers/섬-연결하기.swift) | 3 |  |
+| [표 편집](Programmers/표-편집.swift) | 3 | [풀이](https://wodyios.tistory.com/76) |
+| [등산코스 정하기](Programmers/등산코스-정하기.swift) | 3 | [풀이](https://wodyios.tistory.com/75) |
+| [햄버거 만들기](Programmers/햄버거-만들기.swift) | 1 |  |
 | [옹알이](Programmers/옹알이.swift)                  | 0     |                                           |
 | [양궁 대회](Programmers/양궁%20대회.swift)                  | 2     | [풀이](https://wodyios.tistory.com/65)     |
 | [두 큐 합 같게 만들기](Programmers/두%20큐%20합%20같게%20만들기.swift)                  | 2     | [풀이](https://wodyios.tistory.com/63)     |
@@ -84,3 +84,11 @@
 | 자료구조                         | 관련 링크                                                    |
 | ---------------------------- | ------------------------------------------------------------ |
 | 힙                 | [힙 1 - index 0 부터 저장](DataStructure/heap_index0.swift) [힙 2 - index 1부터 저장](DataStructure/heap_index1.swift) |
+
+
+### Leetcode
+
+| 문제                         | 관련 링크                                                    |
+| ---------------------------- | ------------------------------------------------------------ |
+| [1129. Shortest Path with Alternating Colors](leetcode/1129.-Shortest-Path-with-Alternating-Colors) | |
+
